@@ -503,18 +503,14 @@ ul.row {
     background-color: var(--color-black);
 }
 
-.footer-adress {
-    --text-color: (var(--text-color)),
-}
-
 .footer-copyright {
     margin: 0;
     font-size: var(--font-size-small);
     color: var(--text-color); 
 }
 
-ul.footer {
-    text-align: right;
+.footer-adress {
+    --text-color: (var(--text-color)),
 }
 
 .social-link {
@@ -525,6 +521,9 @@ ul.footer {
     fill: var(--text-color);
 }
 
+.footer ul {
+    text-align: right;
+}
 :root {
     --color-primary: #D73953;
     --color-black: #090909;
