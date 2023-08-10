@@ -509,8 +509,8 @@ ul.row {
     color: var(--text-color); 
 }
 
-.footer-adress {
-    color: (var(--text-color)),
+.footer-address {
+  color: var(--text-color);
 }
 
 .social-link {
