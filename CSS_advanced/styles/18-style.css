@@ -442,8 +442,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .section-footer {
-    text-align: var(--section-footer-align);
     padding: var(--section-footer-padding);
+    text-align: var(--section-footer-align);    
 }
 
 .section-title {
