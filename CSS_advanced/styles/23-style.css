@@ -510,14 +510,14 @@ ul.row {
 }
 
 .footer-adress {
-    --text-color: (var(--text-color)),
+    color: (var(--text-color)),
 }
 
 .social-link {
     display: block ;
 }
 
-.social-link>svg {
+.social-link > svg {
     fill: var(--text-color);
 }
 
