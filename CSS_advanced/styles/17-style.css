@@ -413,8 +413,8 @@
   }
 
   .section- footer {
-    padding: var(--footer-padding);
     text-align: var(--section-footer-align);
+    padding: var(--section-footer-padding);
   }
 
   .section-header {
@@ -466,7 +466,7 @@
       --section-tagline-transform: uppercase;
       --section-title-margin: 0;
       --section-title-color: var(--color-black);
-      --section-padding: 0;
+      --section-padding: 5rem 0;
       --section-header-padding: 0 0 3rem;
       --section-body-padding: 0 0 3rem;
       --section-footer-padding: 3rem 0 0;
