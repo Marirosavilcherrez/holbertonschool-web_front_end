@@ -22,11 +22,11 @@ a:link {
 }
 
 a:visited {
-    font-style: Italic;
+    font-style: italic;
 }
 
 a:hover {
-    text-decoration-line: underline;
+    text-decoration: underline;
 }
 
 a:active {
