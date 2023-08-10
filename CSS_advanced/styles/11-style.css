@@ -35,10 +35,9 @@ h1, h2, h3, h4, h5, h6 {
  
 .section-tagline {
     color: var(--color-primary);
-    text-align: var(--section-header-align);
     font-family: var(--font-family-title);
     text-transform: var(--section-tagline-transform);
-    font-size: var(--font-weight-bold);
+    font-weight: var(--font-weight-bold);
 }
 
 :root {
